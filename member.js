@@ -1,6 +1,6 @@
-function skillMember() {
+function skillsMember() {
   return {
-    name: 'skillMember',
+    name: 'skillsMember',
     type: 'member',
     description: 'This is a member',
     method() {
