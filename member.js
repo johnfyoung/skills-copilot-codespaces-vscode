@@ -1,0 +1,10 @@
+function skillMember() {
+  return {
+    name: 'skillMember',
+    type: 'member',
+    description: 'This is a member',
+    method() {
+      return 'This is a method';
+    },
+  };
+}
